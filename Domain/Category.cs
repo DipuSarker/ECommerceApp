@@ -8,6 +8,6 @@
         public DateTime CreatedDate { get; set; }
 
         // Relationship : One Category can have many Products
-        public List<Product> Products { get; set; }
+        //public List<Product> Products { get; set; }
     }
 }
